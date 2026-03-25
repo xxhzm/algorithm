@@ -1,31 +1,28 @@
 #include <iostream>
-#include <string>
 
 using namespace std;
 
-int main()
-{
+int main() {
     int k;
     string s;
-    cin >> k;
-    cin >> s;
+    cin >> k >> s;
 
-    int m = s.size();
-    if (m % k != 0)
-    {
-        cout << -1;
-        return 0;
+    const int size = s.size();
+
+    if (size % k != 0) {
+        return -1;
     }
 
-    int len = m / k;
+    const int len = size / k;
     int ans = 0;
 
-    for (int i = 0; i < len; i++)
-    {
+    // 按照k来进行切割
+    for (int i = 0; i < len; i++){
         int cnt[26] = {0};
 
         for (int j = 0; j < k; j++)
         {
+            cout << j * len + i;
             cnt[s[j * len + i] - 'a']++;
         }
 
