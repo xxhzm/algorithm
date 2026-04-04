@@ -11,9 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="050961ec-af20-46fb-8c54-2a37a306415d" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/2026.04.03/lg12340.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026.04.03/lgp12342.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026.04.03/p12140.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.04/lg8772.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +43,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "C/C++ 文件.lg1408.cpp.executor": "Run",
+    "C/C++ 文件.lg8772.cpp.executor": "Run",
     "C/C++ 文件.lgp12342.cpp.executor": "Run",
     "C/C++ 文件.p10387.cpp.executor": "Run",
+    "C/C++ 文件.p12140.cpp.executor": "Run",
     "C/C++ 文件.p15963.cpp.executor": "Run",
     "C/C++ 文件.p15964.cpp.executor": "Run",
     "C/C++ 文件.p1614.cpp.executor": "Run",
@@ -78,13 +78,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2026.04.04" />
       <recent name="$PROJECT_DIR$/2026.04.01" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 文件.p12140.cpp">
+  <component name="RunManager" selected="C/C++ 文件.lg8772.cpp">
     <configuration name="lg1408.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="lg1408.cpp" CONFIG_NAME="lg1408.cpp">
       <option name="sourceFile" value="2026.04.01/lg1408.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lg8772.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="lg8772.cpp" CONFIG_NAME="lg8772.cpp">
+      <option name="sourceFile" value="2026.04.04/lg8772.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -131,19 +138,13 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t745284.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="t745284.cpp" CONFIG_NAME="t745284.cpp">
-      <option name="sourceFile" value="2026.03.27落谷月赛/t745284.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ 文件.lg8772.cpp" />
         <item itemvalue="C/C++ 文件.lgp12342.cpp" />
         <item itemvalue="C/C++ 文件.lg1408.cpp" />
         <item itemvalue="C/C++ 文件.p15964.cpp" />
         <item itemvalue="C/C++ 文件.p15963.cpp" />
-        <item itemvalue="C/C++ 文件.t745284.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +163,8 @@
       <workItem from="1774942301113" duration="4193000" />
       <workItem from="1775058069984" duration="1856000" />
       <workItem from="1775095929089" duration="1236000" />
-      <workItem from="1775220779519" duration="1327000" />
+      <workItem from="1775220779519" duration="1504000" />
+      <workItem from="1775316576866" duration="671000" />
     </task>
     <servers />
   </component>
