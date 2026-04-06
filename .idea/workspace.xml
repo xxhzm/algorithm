@@ -11,7 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="050961ec-af20-46fb-8c54-2a37a306415d" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/2026.04.04/lg8772.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.06/lt874.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.06/蓝桥产值调整.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +59,7 @@
     "C/C++ 文件.t745281.cpp.executor": "Run",
     "C/C++ 文件.t745283.cpp.executor": "Run",
     "C/C++ 文件.t745284.cpp.executor": "Run",
+    "C/C++ 文件.蓝桥产值调整.cpp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -83,7 +85,13 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 文件.lg8772.cpp">
+  <component name="RunManager" selected="C/C++ 文件.蓝桥产值调整.cpp">
+    <configuration name="蓝桥产值调整.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="蓝桥产值调整.cpp" CONFIG_NAME="蓝桥产值调整.cpp">
+      <option name="sourceFile" value="2026.04.06/蓝桥产值调整.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="lg1408.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="lg1408.cpp" CONFIG_NAME="lg1408.cpp">
       <option name="sourceFile" value="2026.04.01/lg1408.cpp" />
       <method v="2">
@@ -104,12 +112,6 @@
     </configuration>
     <configuration name="p12140.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="p12140.cpp" CONFIG_NAME="p12140.cpp">
       <option name="sourceFile" value="2026.04.03/p12140.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p15963.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="p15963.cpp" CONFIG_NAME="p15963.cpp">
-      <option name="sourceFile" value="2026.03.28落谷蓝桥杯模拟省赛/p15963.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -140,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ 文件.蓝桥产值调整.cpp" />
         <item itemvalue="C/C++ 文件.lg8772.cpp" />
         <item itemvalue="C/C++ 文件.lgp12342.cpp" />
         <item itemvalue="C/C++ 文件.lg1408.cpp" />
         <item itemvalue="C/C++ 文件.p15964.cpp" />
-        <item itemvalue="C/C++ 文件.p15963.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +172,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
