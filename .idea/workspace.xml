@@ -11,7 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="050961ec-af20-46fb-8c54-2a37a306415d" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/2026.04.07/lt2069.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.07/蓝桥冬季寻宝.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.07/蓝桥平台跳跃.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,43 +41,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ 文件.lg1408.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.lg8772.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.lgp12342.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.p10387.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.p12140.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.p15963.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.p15964.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.p1614.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.p1639.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.p8597.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.p8739.cpp (1).executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.p8739.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.t745280.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.t745281.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.t745283.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.t745284.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.蓝桥产值调整.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/xiao/algorithm&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.postfix.templates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ 文件.lg1408.cpp.executor": "Run",
+    "C/C++ 文件.lg8772.cpp.executor": "Run",
+    "C/C++ 文件.lgp12342.cpp.executor": "Run",
+    "C/C++ 文件.p10387.cpp.executor": "Run",
+    "C/C++ 文件.p12140.cpp.executor": "Run",
+    "C/C++ 文件.p15963.cpp.executor": "Run",
+    "C/C++ 文件.p15964.cpp.executor": "Run",
+    "C/C++ 文件.p1614.cpp.executor": "Run",
+    "C/C++ 文件.p1639.cpp.executor": "Run",
+    "C/C++ 文件.p8597.cpp.executor": "Run",
+    "C/C++ 文件.p8739.cpp (1).executor": "Run",
+    "C/C++ 文件.p8739.cpp.executor": "Run",
+    "C/C++ 文件.t745280.cpp.executor": "Run",
+    "C/C++ 文件.t745281.cpp.executor": "Run",
+    "C/C++ 文件.t745283.cpp.executor": "Run",
+    "C/C++ 文件.t745284.cpp.executor": "Run",
+    "C/C++ 文件.蓝桥产值调整.cpp.executor": "Run",
+    "C/C++ 文件.蓝桥冬季寻宝.cpp.executor": "Run",
+    "C/C++ 文件.蓝桥平台跳跃.cpp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/xiao/algorithm",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.postfix.templates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2026.04.04" />
@@ -84,15 +87,21 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 文件.蓝桥产值调整.cpp">
+  <component name="RunManager" selected="C/C++ 文件.蓝桥平台跳跃.cpp">
     <configuration name="蓝桥产值调整.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="蓝桥产值调整.cpp" CONFIG_NAME="蓝桥产值调整.cpp">
       <option name="sourceFile" value="2026.04.06/蓝桥产值调整.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lg1408.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="lg1408.cpp" CONFIG_NAME="lg1408.cpp">
-      <option name="sourceFile" value="2026.04.01/lg1408.cpp" />
+    <configuration name="蓝桥冬季寻宝.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="蓝桥冬季寻宝.cpp" CONFIG_NAME="蓝桥冬季寻宝.cpp">
+      <option name="sourceFile" value="2026.04.07/蓝桥冬季寻宝.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="蓝桥平台跳跃.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="蓝桥平台跳跃.cpp" CONFIG_NAME="蓝桥平台跳跃.cpp">
+      <option name="sourceFile" value="2026.04.07/蓝桥平台跳跃.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -111,12 +120,6 @@
     </configuration>
     <configuration name="p12140.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="p12140.cpp" CONFIG_NAME="p12140.cpp">
       <option name="sourceFile" value="2026.04.03/p12140.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p15964.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="p15964.cpp" CONFIG_NAME="p15964.cpp">
-      <option name="sourceFile" value="2026.03.28落谷蓝桥杯模拟省赛/p15964.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -141,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ 文件.蓝桥平台跳跃.cpp" />
+        <item itemvalue="C/C++ 文件.蓝桥冬季寻宝.cpp" />
         <item itemvalue="C/C++ 文件.蓝桥产值调整.cpp" />
         <item itemvalue="C/C++ 文件.lg8772.cpp" />
         <item itemvalue="C/C++ 文件.lgp12342.cpp" />
-        <item itemvalue="C/C++ 文件.lg1408.cpp" />
-        <item itemvalue="C/C++ 文件.p15964.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +171,7 @@
       <workItem from="1775316576866" duration="671000" />
       <workItem from="1775487615370" duration="46000" />
       <workItem from="1775565572116" duration="641000" />
+      <workItem from="1775568468631" duration="3555000" />
     </task>
     <servers />
   </component>
