@@ -11,8 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="050961ec-af20-46fb-8c54-2a37a306415d" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/2026.04.07/蓝桥冬季寻宝.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026.04.07/蓝桥平台跳跃.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.08/2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.08/3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.08/4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.08/5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.08/p1443.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.08/p1746.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +47,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ 文件.2.cpp.executor": "Run",
+    "C/C++ 文件.3.cpp.executor": "Run",
+    "C/C++ 文件.4.cpp.executor": "Run",
+    "C/C++ 文件.5.cpp.executor": "Run",
     "C/C++ 文件.lg1408.cpp.executor": "Run",
     "C/C++ 文件.lg8772.cpp.executor": "Run",
     "C/C++ 文件.lgp12342.cpp.executor": "Run",
@@ -52,6 +60,7 @@
     "C/C++ 文件.p15964.cpp.executor": "Run",
     "C/C++ 文件.p1614.cpp.executor": "Run",
     "C/C++ 文件.p1639.cpp.executor": "Run",
+    "C/C++ 文件.p1746.cpp.executor": "Run",
     "C/C++ 文件.p8597.cpp.executor": "Run",
     "C/C++ 文件.p8739.cpp (1).executor": "Run",
     "C/C++ 文件.p8739.cpp.executor": "Run",
@@ -87,9 +96,27 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 文件.蓝桥平台跳跃.cpp">
-    <configuration name="蓝桥产值调整.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="蓝桥产值调整.cpp" CONFIG_NAME="蓝桥产值调整.cpp">
-      <option name="sourceFile" value="2026.04.06/蓝桥产值调整.cpp" />
+  <component name="RunManager" selected="C/C++ 文件.p1746.cpp">
+    <configuration name="2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="2.cpp" CONFIG_NAME="2.cpp">
+      <option name="sourceFile" value="2026.04.08/2.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="3.cpp" CONFIG_NAME="3.cpp">
+      <option name="sourceFile" value="2026.04.08/3.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="4.cpp" CONFIG_NAME="4.cpp">
+      <option name="sourceFile" value="2026.04.08/4.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="5.cpp" CONFIG_NAME="5.cpp">
+      <option name="sourceFile" value="2026.04.08/5.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -102,18 +129,6 @@
     </configuration>
     <configuration name="蓝桥平台跳跃.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="蓝桥平台跳跃.cpp" CONFIG_NAME="蓝桥平台跳跃.cpp">
       <option name="sourceFile" value="2026.04.07/蓝桥平台跳跃.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lg8772.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="lg8772.cpp" CONFIG_NAME="lg8772.cpp">
-      <option name="sourceFile" value="2026.04.04/lg8772.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lgp12342.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="lgp12342.cpp" CONFIG_NAME="lgp12342.cpp">
-      <option name="sourceFile" value="2026.04.03/lgp12342.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -136,6 +151,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p1746.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="p1746.cpp" CONFIG_NAME="p1746.cpp">
+      <option name="sourceFile" value="2026.04.08/p1746.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="p8739.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="p8739.cpp" CONFIG_NAME="p8739.cpp">
       <option name="sourceFile" value="2026.03.24/p8739.cpp" />
       <method v="2">
@@ -144,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ 文件.蓝桥平台跳跃.cpp" />
-        <item itemvalue="C/C++ 文件.蓝桥冬季寻宝.cpp" />
-        <item itemvalue="C/C++ 文件.蓝桥产值调整.cpp" />
-        <item itemvalue="C/C++ 文件.lg8772.cpp" />
-        <item itemvalue="C/C++ 文件.lgp12342.cpp" />
+        <item itemvalue="C/C++ 文件.p1746.cpp" />
+        <item itemvalue="C/C++ 文件.5.cpp" />
+        <item itemvalue="C/C++ 文件.3.cpp" />
+        <item itemvalue="C/C++ 文件.4.cpp" />
+        <item itemvalue="C/C++ 文件.2.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +192,8 @@
       <workItem from="1775316576866" duration="671000" />
       <workItem from="1775487615370" duration="46000" />
       <workItem from="1775565572116" duration="641000" />
-      <workItem from="1775568468631" duration="3555000" />
+      <workItem from="1775568468631" duration="3576000" />
+      <workItem from="1775647277717" duration="6038000" />
     </task>
     <servers />
   </component>
