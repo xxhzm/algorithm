@@ -11,12 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="050961ec-af20-46fb-8c54-2a37a306415d" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/2026.04.08/2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026.04.08/3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026.04.08/4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026.04.08/5.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026.04.08/p1443.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026.04.08/p1746.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.08/p1451.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +51,7 @@
     "C/C++ 文件.lgp12342.cpp.executor": "Run",
     "C/C++ 文件.p10387.cpp.executor": "Run",
     "C/C++ 文件.p12140.cpp.executor": "Run",
+    "C/C++ 文件.p1451.cpp.executor": "Run",
     "C/C++ 文件.p15963.cpp.executor": "Run",
     "C/C++ 文件.p15964.cpp.executor": "Run",
     "C/C++ 文件.p1614.cpp.executor": "Run",
@@ -96,13 +92,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 文件.p1746.cpp">
-    <configuration name="2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="2.cpp" CONFIG_NAME="2.cpp">
-      <option name="sourceFile" value="2026.04.08/2.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ 文件.p1451.cpp">
     <configuration name="3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="3.cpp" CONFIG_NAME="3.cpp">
       <option name="sourceFile" value="2026.04.08/3.cpp" />
       <method v="2">
@@ -121,12 +111,6 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="蓝桥冬季寻宝.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="蓝桥冬季寻宝.cpp" CONFIG_NAME="蓝桥冬季寻宝.cpp">
-      <option name="sourceFile" value="2026.04.07/蓝桥冬季寻宝.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="蓝桥平台跳跃.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="蓝桥平台跳跃.cpp" CONFIG_NAME="蓝桥平台跳跃.cpp">
       <option name="sourceFile" value="2026.04.07/蓝桥平台跳跃.cpp" />
       <method v="2">
@@ -135,6 +119,12 @@
     </configuration>
     <configuration name="p12140.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="p12140.cpp" CONFIG_NAME="p12140.cpp">
       <option name="sourceFile" value="2026.04.03/p12140.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p1451.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithm" TARGET_NAME="p1451.cpp" CONFIG_NAME="p1451.cpp">
+      <option name="sourceFile" value="2026.04.08/p1451.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -165,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ 文件.p1451.cpp" />
         <item itemvalue="C/C++ 文件.p1746.cpp" />
         <item itemvalue="C/C++ 文件.5.cpp" />
         <item itemvalue="C/C++ 文件.3.cpp" />
         <item itemvalue="C/C++ 文件.4.cpp" />
-        <item itemvalue="C/C++ 文件.2.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +184,7 @@
       <workItem from="1775565572116" duration="641000" />
       <workItem from="1775568468631" duration="3576000" />
       <workItem from="1775647277717" duration="6038000" />
+      <workItem from="1775660189823" duration="1833000" />
     </task>
     <servers />
   </component>
