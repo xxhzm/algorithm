@@ -11,7 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="050961ec-af20-46fb-8c54-2a37a306415d" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/2026.04.08/p1451.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.09/lt1137.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.09/lt198.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.09/lt509.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.09/lt70.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.09/lt740.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026.04.09/lt746.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,51 +45,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ 文件.2.cpp.executor": "Run",
-    "C/C++ 文件.3.cpp.executor": "Run",
-    "C/C++ 文件.4.cpp.executor": "Run",
-    "C/C++ 文件.5.cpp.executor": "Run",
-    "C/C++ 文件.lg1408.cpp.executor": "Run",
-    "C/C++ 文件.lg8772.cpp.executor": "Run",
-    "C/C++ 文件.lgp12342.cpp.executor": "Run",
-    "C/C++ 文件.p10387.cpp.executor": "Run",
-    "C/C++ 文件.p12140.cpp.executor": "Run",
-    "C/C++ 文件.p1451.cpp.executor": "Run",
-    "C/C++ 文件.p15963.cpp.executor": "Run",
-    "C/C++ 文件.p15964.cpp.executor": "Run",
-    "C/C++ 文件.p1614.cpp.executor": "Run",
-    "C/C++ 文件.p1639.cpp.executor": "Run",
-    "C/C++ 文件.p1746.cpp.executor": "Run",
-    "C/C++ 文件.p8597.cpp.executor": "Run",
-    "C/C++ 文件.p8739.cpp (1).executor": "Run",
-    "C/C++ 文件.p8739.cpp.executor": "Run",
-    "C/C++ 文件.t745280.cpp.executor": "Run",
-    "C/C++ 文件.t745281.cpp.executor": "Run",
-    "C/C++ 文件.t745283.cpp.executor": "Run",
-    "C/C++ 文件.t745284.cpp.executor": "Run",
-    "C/C++ 文件.蓝桥产值调整.cpp.executor": "Run",
-    "C/C++ 文件.蓝桥冬季寻宝.cpp.executor": "Run",
-    "C/C++ 文件.蓝桥平台跳跃.cpp.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/xiao/algorithm",
-    "nodejs_package_manager_path": "npm",
-    "org.rust.first.attach.projects": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.postfix.templates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ 文件.2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.4.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.5.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.lg1408.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.lg8772.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.lgp12342.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.p10387.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.p12140.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.p1451.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.p15963.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.p15964.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.p1614.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.p1639.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.p1746.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.p8597.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.p8739.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.p8739.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.t745280.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.t745281.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.t745283.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.t745284.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.蓝桥产值调整.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.蓝桥冬季寻宝.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.蓝桥平台跳跃.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/xiao/algorithm&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.postfix.templates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2026.04.04" />
@@ -184,7 +189,9 @@
       <workItem from="1775565572116" duration="641000" />
       <workItem from="1775568468631" duration="3576000" />
       <workItem from="1775647277717" duration="6038000" />
-      <workItem from="1775660189823" duration="1833000" />
+      <workItem from="1775660189823" duration="2306000" />
+      <workItem from="1775719254451" duration="29000" />
+      <workItem from="1775741234656" duration="88000" />
     </task>
     <servers />
   </component>
